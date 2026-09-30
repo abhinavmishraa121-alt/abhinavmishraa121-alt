@@ -1,3 +1,27 @@
+# Hi, I'm Abhinav Mishra 👋
+
+First-year student at Noida International University.
+I love learning new skills and building my foundations in programming.
+
+### 🌱 Currently learning
+- Python (basics, OOP, problem solving)
+- C (for DSA fundamentals)
+- Git & GitHub
+- DSA fundamentals
+
+### 🛠️ Tech I work with
+- Python
+- C (basics)
+- Git
+
+### 📌 What I'm working on
+- Improving my Python assignments and turning them into clean, documented projects
+- Building consistency on GitHub
+
+### 📫 Let's connect
+- GitHub: abhinavmishraa121-alt
+
+Always open to learning and collaborating!
 ## Hi there 👋
 
 <!--
