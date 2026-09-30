@@ -22,7 +22,7 @@ I love learning new skills and building my foundations in programming.
 - GitHub: abhinavmishraa121-alt
 
 Always open to learning and collaborating!
-## Hi there 👋
+
 
 <!--
 **abhinavmishraa121-alt/abhinavmishraa121-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
